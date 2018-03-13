@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Frontend school
+pages:
+  - Intro: index.md
+  - Basics: basics.md
+  - Frontend: frontend.md
+  - Backend: backend.md
+theme: readthedocs
