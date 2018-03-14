@@ -1,1 +1,3 @@
-Frontend guide with specific for drupal developers
+Frontend guide with specific for drupal developers.
+
+Be curious.

@@ -3,5 +3,6 @@ pages:
   - Intro: index.md
   - Basics: basics.md
   - Frontend: frontend.md
-  - Backend: backend.md
+  - Drupal frontend: drupal-frontend.md
+  - Drupal backend: drupal-backend.md
 theme: readthedocs

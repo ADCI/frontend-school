@@ -2,48 +2,68 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Frontend guide with specific for drupal developers", 
+            "text": "Frontend guide with specific for drupal developers.\n\n\nBe curious.", 
             "title": "Intro"
         }, 
         {
             "location": "/basics/", 
-            "text": "HTML\n\n\nCSS\n\n\nTemplates\n\n\nWeb template system\n\n\nTwig\n\n\nTemplate engine that is used in PHP community (Symfony, Drupal 8)\n\n\nLinks: \n- \nDocumentation\n\n- \nWiki\n\n\nMarkdown\n\n\nLinks:\n- \nDocumentation\n\n- \nWiki\n\n- \nCheatssheet", 
+            "text": "HTML Coding (HTML / CSS)\n\n\nAt first it's important to know the basic languages of web pages - HTML and CSS so you can complete one of the courses \naround the web on the topics:\n\n\n\n\nInteractive courses by HTML Academy\n\n\nInteractive courses by Codecademy\n\n\n\n\nTemplates\n\n\nTemplate engines make your life easier with DRY principle and syntax sugar. We will take a look at Twig and Markdown.\n\n\nTwig\n\n\nTemplate engine that is used in PHP community (Symfony, Drupal 8).\n\n\n\n\nTwig documentation with explanations and examples\n\n\n\n\nMarkdown\n\n\nMarkup language that is used to simplify work with the content, especially is used for documentation (GitHub)\n\n\n\n\nGuide\n\n\n\n\nComponent structure\n\n\nIt's important to understand that web pages are consist of separate elements which interact with each other\n\n\nAdditional resources\n\n\n\n\nWeb template system Wiki\n\n\nTwig Documentation\n\n\nTwig Wiki\n\n\nMarkdown Documentation\n\n\nMarkdown Wiki\n\n\nMarkdown Cheatsheet", 
             "title": "Basics"
         }, 
         {
-            "location": "/basics/#html", 
-            "text": "", 
-            "title": "HTML"
-        }, 
-        {
-            "location": "/basics/#css", 
-            "text": "", 
-            "title": "CSS"
+            "location": "/basics/#html-coding-html-css", 
+            "text": "At first it's important to know the basic languages of web pages - HTML and CSS so you can complete one of the courses \naround the web on the topics:   Interactive courses by HTML Academy  Interactive courses by Codecademy", 
+            "title": "HTML Coding (HTML / CSS)"
         }, 
         {
             "location": "/basics/#templates", 
-            "text": "Web template system", 
+            "text": "Template engines make your life easier with DRY principle and syntax sugar. We will take a look at Twig and Markdown.", 
             "title": "Templates"
         }, 
         {
             "location": "/basics/#twig", 
-            "text": "Template engine that is used in PHP community (Symfony, Drupal 8)  Links: \n-  Documentation \n-  Wiki", 
+            "text": "Template engine that is used in PHP community (Symfony, Drupal 8).   Twig documentation with explanations and examples", 
             "title": "Twig"
         }, 
         {
             "location": "/basics/#markdown", 
-            "text": "Links:\n-  Documentation \n-  Wiki \n-  Cheatssheet", 
+            "text": "Markup language that is used to simplify work with the content, especially is used for documentation (GitHub)   Guide", 
             "title": "Markdown"
         }, 
         {
+            "location": "/basics/#component-structure", 
+            "text": "It's important to understand that web pages are consist of separate elements which interact with each other", 
+            "title": "Component structure"
+        }, 
+        {
+            "location": "/basics/#additional-resources", 
+            "text": "Web template system Wiki  Twig Documentation  Twig Wiki  Markdown Documentation  Markdown Wiki  Markdown Cheatsheet", 
+            "title": "Additional resources"
+        }, 
+        {
             "location": "/frontend/", 
-            "text": "", 
+            "text": "Complex knowledge\n\n\n\n\nGuide by TeamDev\n (HTML coding)\n\n\nInteractive learning by freeCodeCamp\n (Front-end / Full-stack)\n\n\nInteractive learning by The Odin Project\n (Full-stack)\n\n\nFront-end Handbook 2018 by FrontendMasters\n (Front-end / Full-stack)\n\n\n\n\nHTML / CSS\n\n\n\n\nFront-end Handbook 2018 HTML \n CSS learning chapter\n\n\nHTML5 Doctor\n (HTML)\n\n\nHTML Dog\n (HTML)", 
             "title": "Frontend"
         }, 
         {
-            "location": "/backend/", 
+            "location": "/frontend/#complex-knowledge", 
+            "text": "Guide by TeamDev  (HTML coding)  Interactive learning by freeCodeCamp  (Front-end / Full-stack)  Interactive learning by The Odin Project  (Full-stack)  Front-end Handbook 2018 by FrontendMasters  (Front-end / Full-stack)", 
+            "title": "Complex knowledge"
+        }, 
+        {
+            "location": "/frontend/#html-css", 
+            "text": "Front-end Handbook 2018 HTML   CSS learning chapter  HTML5 Doctor  (HTML)  HTML Dog  (HTML)", 
+            "title": "HTML / CSS"
+        }, 
+        {
+            "location": "/drupal-frontend/", 
             "text": "", 
-            "title": "Backend"
+            "title": "Drupal frontend"
+        }, 
+        {
+            "location": "/drupal-backend/", 
+            "text": "", 
+            "title": "Drupal backend"
         }
     ]
 }

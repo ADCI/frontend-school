@@ -27,7 +27,15 @@
 
     
     <url>
-     <loc>/backend/</loc>
+     <loc>/drupal-frontend/</loc>
+     <lastmod>2018-03-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/drupal-backend/</loc>
      <lastmod>2018-03-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
