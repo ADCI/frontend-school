@@ -1,0 +1,49 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Frontend guide with specific for drupal developers", 
+            "title": "Intro"
+        }, 
+        {
+            "location": "/basics/", 
+            "text": "HTML\n\n\nCSS\n\n\nTemplates\n\n\nWeb template system\n\n\nTwig\n\n\nTemplate engine that is used in PHP community (Symfony, Drupal 8)\n\n\nLinks: \n- \nDocumentation\n\n- \nWiki\n\n\nMarkdown\n\n\nLinks:\n- \nDocumentation\n\n- \nWiki\n\n- \nCheatssheet", 
+            "title": "Basics"
+        }, 
+        {
+            "location": "/basics/#html", 
+            "text": "", 
+            "title": "HTML"
+        }, 
+        {
+            "location": "/basics/#css", 
+            "text": "", 
+            "title": "CSS"
+        }, 
+        {
+            "location": "/basics/#templates", 
+            "text": "Web template system", 
+            "title": "Templates"
+        }, 
+        {
+            "location": "/basics/#twig", 
+            "text": "Template engine that is used in PHP community (Symfony, Drupal 8)  Links: \n-  Documentation \n-  Wiki", 
+            "title": "Twig"
+        }, 
+        {
+            "location": "/basics/#markdown", 
+            "text": "Links:\n-  Documentation \n-  Wiki \n-  Cheatssheet", 
+            "title": "Markdown"
+        }, 
+        {
+            "location": "/frontend/", 
+            "text": "", 
+            "title": "Frontend"
+        }, 
+        {
+            "location": "/backend/", 
+            "text": "", 
+            "title": "Backend"
+        }
+    ]
+}
