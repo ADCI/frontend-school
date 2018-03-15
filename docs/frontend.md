@@ -8,7 +8,7 @@
 # HTML / CSS
 
 - [Front-end Handbook 2018 HTML & CSS learning chapter](https://frontendmasters.com/books/front-end-handbook/2018/learning/html-css.html)
-- [HTML5 Doctor](http://html5doctor.com/) (HTML)
-- [HTML Dog](http://htmldog.com/guides/html/) (HTML)
+- [HTML5 Doctor](http://html5doctor.com/) (HTML references)
+- [HTML Dog](http://htmldog.com/guides/html/) (HTML references)
 
 
