@@ -7,7 +7,7 @@
         }, 
         {
             "location": "/basics/", 
-            "text": "HTML Coding (HTML / CSS)\n\n\nAt first it's important to know the basic languages of web pages - HTML and CSS. You can complete one of the courses \naround the web on the topics to learn them:\n\n\n\n\nInteractive learning by HTML Academy\n\n\nInteractive course by Codecademy\n\n\n\n\nComponent structure\n\n\nIt's important to understand that web pages are consist of separate elements which interact with each other in \ndifferent contexts. You can get knowledge about components while learning principles of BEM:\n\n\n\n\nBEM guide\n\n\nBEM 101 introduction by CSS-TRICKS\n\n\n\n\nCSS processors\n\n\nCSS processors make your work with styles easier with syntax sugar and DRY principle we will take a look at Saas (SCSS syntax).\n\n\nSaas (SCSS)\n\n\nMost popular CSS preprocessor.\n\n\nTemplates\n\n\nTemplate engines make your work with content and structure of pages easier with syntax sugar and DRY principle. We will take a look at Twig and Markdown.\n\n\nTwig\n\n\nTemplate engine that is used in PHP community (Symfony, Drupal 8).\n\n\n\n\nTwig documentation with explanations and examples\n\n\n\n\nMarkdown\n\n\nMarkup language that is used to simplify work with the content, especially it is used for documentation (GitHub).\n\n\n\n\nGuide\n\n\n\n\nJavaScript\n\n\nThe main programming language for client-side, but also can be used for backend development (NodeJS).\n\n\n\n\nInteractive course by Codecademy\n\n\n\n\nGit\n\n\nInstrument to manage your code.\n\n\nMain resources\n\n\n\n\nMDN Web Docs by Mozilla\n - the most valuable resource about web development\n\n\nStack Overflow\n - answers for all your questions\n\n\nFeatures support by Can I use\n - enter feature, use if everything is green. Or, for JS \nfeatures, use Babel transpiler and polyfills (\npolifyll.io\n)\n\n\nBrowsers statistic\n - please, support browsers with more than 0.5% market share and \ndon't support IE 10 and below without important reasons (drop support for IE 11 too as it will be possible)\n\n\n\n\nAdditional resources\n\n\n\n\nWeb template system Wiki\n\n\nTwig Documentation\n\n\nTwig Wiki\n\n\nMarkdown Documentation\n\n\nMarkdown Wiki\n\n\nMarkdown Cheatsheet\n\n\nBEM Documentation", 
+            "text": "HTML Coding (HTML / CSS)\n\n\nAt first it's important to know the basic languages of web pages - HTML and CSS. You can complete one of the courses \naround the web on the topics to learn them:\n\n\n\n\nInteractive learning by HTML Academy\n\n\nInteractive course by Codecademy\n\n\n\n\nComponent structure\n\n\nIt's important to understand that web pages are consist of separate elements which interact with each other in \ndifferent contexts. You can get knowledge about components while learning principles of BEM:\n\n\n\n\nBEM guide\n\n\nBEM 101 introduction by CSS-TRICKS\n\n\n\n\nCSS processors\n\n\nCSS processors make your work with styles easier with syntax sugar and DRY principle we will take a look at Saas (SCSS syntax).\n\n\nSaas (SCSS)\n\n\nMost popular CSS preprocessor.\n\n\n\n\nSass Basics by Sass creators\n\n\nSass course by Codecademy\n\n\n\n\nTemplates\n\n\nTemplate engines make your work with content and structure of pages easier with syntax sugar and DRY principle. We will take a look at Twig and Markdown.\n\n\nTwig\n\n\nTemplate engine that is used in PHP community (Symfony, Drupal 8).\n\n\n\n\nTwig documentation with explanations and examples\n\n\n\n\nMarkdown\n\n\nMarkup language that is used to simplify work with the content, especially it is used for documentation (GitHub).\n\n\n\n\nGuide\n\n\n\n\nJavaScript\n\n\nThe main programming language for client-side, but also can be used for backend development (NodeJS).\n\n\n\n\nInteractive course by Codecademy\n\n\n\n\nGit\n\n\nInstrument to manage your code.\n\n\n\n\nBasic Guide\n\n\n(Advanced) Pro Git\n\n\n\n\nMain resources\n\n\n\n\nMDN Web Docs by Mozilla\n - the most valuable resource about web development\n\n\nStack Overflow\n - answers for all your questions\n\n\nFeatures support by Can I use\n - enter feature, use if everything is green. Or, for JS \nfeatures, use Babel transpiler and polyfills (\npolifyll.io\n)\n\n\nBrowsers statistic\n - please, support browsers with more than 0.5% market share and \ndon't support IE 10 and below without important reasons (drop support for IE 11 too as it will be possible)", 
             "title": "Basics"
         }, 
         {
@@ -27,7 +27,7 @@
         }, 
         {
             "location": "/basics/#saas-scss", 
-            "text": "Most popular CSS preprocessor.", 
+            "text": "Most popular CSS preprocessor.   Sass Basics by Sass creators  Sass course by Codecademy", 
             "title": "Saas (SCSS)"
         }, 
         {
@@ -52,7 +52,7 @@
         }, 
         {
             "location": "/basics/#git", 
-            "text": "Instrument to manage your code.", 
+            "text": "Instrument to manage your code.   Basic Guide  (Advanced) Pro Git", 
             "title": "Git"
         }, 
         {
@@ -61,24 +61,39 @@
             "title": "Main resources"
         }, 
         {
-            "location": "/basics/#additional-resources", 
-            "text": "Web template system Wiki  Twig Documentation  Twig Wiki  Markdown Documentation  Markdown Wiki  Markdown Cheatsheet  BEM Documentation", 
-            "title": "Additional resources"
-        }, 
-        {
             "location": "/frontend/", 
-            "text": "Complex knowledge\n\n\n\n\nGuide by TeamDev\n (HTML coding)\n\n\nInteractive learning by freeCodeCamp\n (Front-end / Full-stack)\n\n\nInteractive learning by The Odin Project\n (Full-stack)\n\n\nFront-end Handbook 2018 by FrontendMasters\n (Front-end / Full-stack)\n\n\n\n\nHTML / CSS\n\n\n\n\nFront-end Handbook 2018 HTML \n CSS learning chapter\n\n\nHTML5 Doctor\n (HTML references)\n\n\nHTML Dog\n (HTML references)", 
+            "text": "Comprehensive knowledge\n\n\n\n\nGuide by TeamDev (RU)\n (HTML coding)\n\n\nInteractive learning by freeCodeCamp\n (Front-end / Full-stack)\n\n\nInteractive learning by The Odin Project\n (Full-stack)\n\n\nFront-end Handbook 2018 by FrontendMasters\n (Front-end / Full-stack)\n\n\n\n\nHTML / CSS\n\n\n\n\nFront-end Handbook 2018 HTML \n CSS learning chapter\n\n\nHTML5 Doctor\n - HTML references\n\n\nHTML Dog\n - HTML guides\n\n\nPug\n - another HTML template engine, popular in NodeJS community\n\n\n\n\nFlexbox:\n\n\n\n\nGuide\n\n\nAnother guide\n\n\n\n\nMethodologies:\n\n\n\n\nSMACSS\n\n\nBEM site\n, \nBEM styleguide\n\n\nOOCSS article on Smashing magazine\n,\n\nGuide\n\n\nITCSS article\n, \n\nITCSS slides\n\n\nAtomic Design article\n\n\n\n\nBooks:\n\n\n\n\n\"CSS: The Definitive Guide\" by Eric Meyer\n\n\n\"CSS3: The Missing Manual\" by David McFarland\n\n\n\"CSS Secrets\" by Lea Verou\n\n\n\n\nJavaScript\n\n\n\n\nFront-end Handbook 2018 JavaScript learning chapter\n\n\n\n\nReact\n\n\n\n\nFront-end Handbook 2018 React learning chapter\n\n\n\n\nVue\n\n\n\n\nawesome-vue repository\n - A curated list of awesome things related to Vue.js\n\n\n\n\nUseful plugins and libraries\n\n\nCommon:\n\n\n\n\nlodash\n - utilities (Vanilla JS)\n\n\n\n\nSliders: \n\n\n\n\nSwiper\n (Vanilla JS / jQuery)\n\n\nSlick\n (jQuery)\n\n\n\n\nLightboxes:\n\n\n\n\nMagnific Popup\n (jQuery)", 
             "title": "Frontend"
         }, 
         {
-            "location": "/frontend/#complex-knowledge", 
-            "text": "Guide by TeamDev  (HTML coding)  Interactive learning by freeCodeCamp  (Front-end / Full-stack)  Interactive learning by The Odin Project  (Full-stack)  Front-end Handbook 2018 by FrontendMasters  (Front-end / Full-stack)", 
-            "title": "Complex knowledge"
+            "location": "/frontend/#comprehensive-knowledge", 
+            "text": "Guide by TeamDev (RU)  (HTML coding)  Interactive learning by freeCodeCamp  (Front-end / Full-stack)  Interactive learning by The Odin Project  (Full-stack)  Front-end Handbook 2018 by FrontendMasters  (Front-end / Full-stack)", 
+            "title": "Comprehensive knowledge"
         }, 
         {
             "location": "/frontend/#html-css", 
-            "text": "Front-end Handbook 2018 HTML   CSS learning chapter  HTML5 Doctor  (HTML references)  HTML Dog  (HTML references)", 
+            "text": "Front-end Handbook 2018 HTML   CSS learning chapter  HTML5 Doctor  - HTML references  HTML Dog  - HTML guides  Pug  - another HTML template engine, popular in NodeJS community   Flexbox:   Guide  Another guide   Methodologies:   SMACSS  BEM site ,  BEM styleguide  OOCSS article on Smashing magazine , Guide  ITCSS article ,  ITCSS slides  Atomic Design article   Books:   \"CSS: The Definitive Guide\" by Eric Meyer  \"CSS3: The Missing Manual\" by David McFarland  \"CSS Secrets\" by Lea Verou", 
             "title": "HTML / CSS"
+        }, 
+        {
+            "location": "/frontend/#javascript", 
+            "text": "Front-end Handbook 2018 JavaScript learning chapter", 
+            "title": "JavaScript"
+        }, 
+        {
+            "location": "/frontend/#react", 
+            "text": "Front-end Handbook 2018 React learning chapter", 
+            "title": "React"
+        }, 
+        {
+            "location": "/frontend/#vue", 
+            "text": "awesome-vue repository  - A curated list of awesome things related to Vue.js", 
+            "title": "Vue"
+        }, 
+        {
+            "location": "/frontend/#useful-plugins-and-libraries", 
+            "text": "Common:   lodash  - utilities (Vanilla JS)   Sliders:    Swiper  (Vanilla JS / jQuery)  Slick  (jQuery)   Lightboxes:   Magnific Popup  (jQuery)", 
+            "title": "Useful plugins and libraries"
         }, 
         {
             "location": "/drupal-frontend/", 

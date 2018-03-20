@@ -18,6 +18,9 @@ CSS processors make your work with styles easier with syntax sugar and DRY princ
 ## Saas (SCSS)
 Most popular CSS preprocessor.
 
+- [Sass Basics by Sass creators](https://sass-lang.com/guide)
+- [Sass course by Codecademy](https://www.codecademy.com/learn/learn-sass)
+
 # Templates
 Template engines make your work with content and structure of pages easier with syntax sugar and DRY principle. We will take a look at Twig and Markdown.
 
@@ -39,6 +42,9 @@ The main programming language for client-side, but also can be used for backend 
 # Git
 Instrument to manage your code.
 
+- [Basic Guide](http://rogerdudler.github.io/git-guide/)
+- [(Advanced) Pro Git](https://git-scm.com/book/en/v2/)
+
 # Main resources
 - [MDN Web Docs by Mozilla](https://developer.mozilla.org/ru/) - the most valuable resource about web development
 - [Stack Overflow](https://stackoverflow.com/) - answers for all your questions
@@ -46,12 +52,3 @@ Instrument to manage your code.
 features, use Babel transpiler and polyfills ([polifyll.io](https://polyfill.io/v2/docs/))
 - [Browsers statistic](https://caniuse.com/usage-table) - please, support browsers with more than 0.5% market share and 
 don't support IE 10 and below without important reasons (drop support for IE 11 too as it will be possible)
-
-# Additional resources
-- [Web template system Wiki](https://en.wikipedia.org/wiki/Web_template_system)
-- [Twig Documentation](https://twig.symfony.com/)
-- [Twig Wiki](https://en.wikipedia.org/wiki/Twig_(template_engine))
-- [Markdown Documentation](https://daringfireball.net/projects/markdown/)
-- [Markdown Wiki](https://en.wikipedia.org/wiki/Markdown)
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [BEM Documentation](https://en.bem.info/methodology/)
