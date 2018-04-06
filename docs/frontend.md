@@ -33,9 +33,28 @@ Books:
 - ["CSS3: The Missing Manual" by David McFarland](http://shop.oreilly.com/product/0636920036357.do)
 - ["CSS Secrets" by Lea Verou](http://shop.oreilly.com/product/0636920031123.do)
 
+Frameworks:
+
+- [Bootstrap](http://getbootstrap.com/)
+- [Foundation](https://foundation.zurb.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+# Emails
+
+- [Foundation for Emails](https://foundation.zurb.com/emails.html)
+
 # JavaScript
 
 - [Front-end Handbook 2018 JavaScript learning chapter](https://frontendmasters.com/books/front-end-handbook/2018/learning/javascript.html)
+
+Books:
+
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
+
+# Linters
+
+- [Stylelint](https://stylelint.io/)
+- [ESLint](https://eslint.org/)
 
 # React
 - [Front-end Handbook 2018 React learning chapter](https://frontendmasters.com/books/front-end-handbook/2018/learning/react.html)
@@ -58,3 +77,40 @@ Sliders:
 Lightboxes:
 
 - [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/) (jQuery)
+
+Text trim:
+
+- [Shave](https://dollarshaveclub.github.io/shave/)
+
+Custom forms:
+
+- [jcf](https://github.com/w3co/jcf)
+
+Custom scrolls:
+
+- [SimpleBar](http://grsmto.github.io/simplebar/)
+- [Overlay Scrollbars](https://kingsora.github.io/OverlayScrollbars/#!overview)
+
+IP information (location, etc):
+
+- [freegeoip](https://github.com/fiorix/freegeoip)
+
+Sprites:
+
+- [svg-sprite](https://github.com/jkphl/svg-sprite) - svg
+- [spritesmith](https://github.com/Ensighten/spritesmith) - png, jpeg, etc
+
+Prefixes:
+
+- [autoprefixer](https://github.com/postcss/autoprefixer)
+
+Lazy loading (images):
+
+- [lozad.js](https://github.com/ApoorvSaxena/lozad.js)
+
+Regression testing:
+
+- [gemini](https://gemini-testing.github.io/)
+- [BackstopJS](https://github.com/garris/BackstopJS)
+- [Galen](http://galenframework.com/)
+
