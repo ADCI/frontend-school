@@ -10,3 +10,7 @@ The main work of front-end developer in theme consists of styling, templating an
 more about work with PHP and what comes from the backend side so please be sure to provide front-end developer with
 variables for templates and don't ask the frontend developer to work with the hooks if he/she not interested to
 evolve into Drupal developer, at least at the beginning of learning of Drupal.
+
+# Additional
+
+Also, be sure to check [Drupal Good Practices](http://adci.github.io/drupal-good-practices/)
