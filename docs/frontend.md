@@ -14,13 +14,13 @@
 
 Flexbox:
 
-- [Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Another guide](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+- [Guide by CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Guide by Scotch.io](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 
 Methodologies:
 
+- [BEM site](https://en.bem.info), [BEM styleguide](http://nicothin.github.io/idiomatic-pre-CSS/) (essential)
 - [SMACSS](https://smacss.com/)
-- [BEM site](https://en.bem.info), [BEM styleguide](http://nicothin.github.io/idiomatic-pre-CSS/)
 - [OOCSS article on Smashing magazine](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/),
 [Guide](https://github.com/stubbornella/oocss/wiki)
 - [ITCSS article](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/), 
@@ -39,6 +39,32 @@ Frameworks:
 - [Foundation](https://foundation.zurb.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
+# CSS processors
+
+## Sass
+
+Articles:
+
+- [TheSassWay](http://thesassway.com/)
+
+Code styleguide:
+
+- [Idiomatic pre CSS](http://nicothin.github.io/idiomatic-pre-CSS/)
+
+Tutorials, guides:
+
+- [PostCSS Deep Dive](https://webdesign.tutsplus.com/series/postcss-deep-dive--cms-889)
+
+## PostCSS
+
+- [GitHub repo](https://github.com/postcss/postcss)
+- [A searchable catalog of PostCSS plugins](https://www.postcss.parts/)
+
+Noticable plugins:
+
+- [CSSNext](http://cssnext.io/)
+- [Autoprefixer](https://github.com/postcss/autoprefixer)
+
 # Emails
 
 - [Foundation for Emails](https://foundation.zurb.com/emails.html)
@@ -51,17 +77,60 @@ Books:
 
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 
+# How browsers work
+
+- [Optimising the front end for the browser](https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572)
+([RU transalation](https://habrahabr.ru/company/badoo/blog/322988/))
+
 # Linters
 
 - [Stylelint](https://stylelint.io/)
 - [ESLint](https://eslint.org/)
 
 # React
+
 - [Front-end Handbook 2018 React learning chapter](https://frontendmasters.com/books/front-end-handbook/2018/learning/react.html)
+- ["Start Learning React" from egghead.io](https://egghead.io/courses/start-learning-react)
+
+Redux:
+
+- ["Getting Started with Redux" by Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
+- ["Building React Applications with Idiomatic Redux" by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 # Vue
 
 - [awesome-vue repository](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
+
+# Build
+
+- [Webpack guide by SurviveJS](https://survivejs.com/webpack/introduction/)
+
+# Git
+
+- [Pro Git](https://git-scm.com/book/en/v2/)
+- ["Learn Version Control with Git" by git-tower](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction#start)
+- [GitHowTo](https://githowto.com)
+- [Git style guide](https://github.com/agis/git-style-guide)
+
+# Fonts
+
+- [CSS Font Stack](https://www.cssfontstack.com/) - default fonts availability on OSs
+- [Typekit](https://typekit.com/) - if you have an account and subscription, you can assemble fonts (event most of the
+paid ones) in kits to connect to your website
+
+# Design
+
+- [Front-end Handbook 2018 "Learn User Interface/Interaction Design" learning chapter](https://frontendmasters.com/books/front-end-handbook/2018/learning/ui-design-patterns.html)
+
+# UI/UX
+
+- [What Is User Experience Design? Overview, Tools And Resources](https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/)
+- [Usability Checklist](https://stayintech.com/UX)
+
+# Accessibility
+
+- [Accessibility Guidelines](http://accessibility.voxmedia.com/)
+- [WAVE web accessibility evaluation tool](https://wave.webaim.org/)
 
 # Useful plugins and libraries
 
@@ -100,17 +169,25 @@ Sprites:
 - [svg-sprite](https://github.com/jkphl/svg-sprite) - svg
 - [spritesmith](https://github.com/Ensighten/spritesmith) - png, jpeg, etc
 
-Prefixes:
-
-- [autoprefixer](https://github.com/postcss/autoprefixer)
-
 Lazy loading (images):
 
 - [lozad.js](https://github.com/ApoorvSaxena/lozad.js)
 
-Regression testing:
+Regression/visual testing:
 
 - [gemini](https://gemini-testing.github.io/)
 - [BackstopJS](https://github.com/garris/BackstopJS)
 - [Galen](http://galenframework.com/)
 
+Intersection:
+
+- [IntersectionObserver API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) - can be used 
+with polyfills (use instead of inview.js and waypoints if possible)
+
+Polyfills:
+
+- [Polyfill.io](https://polyfill.io/v2/docs/)
+
+# Interesting people
+
+- [(RU)"names" by web standarts](http://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/)
