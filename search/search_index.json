@@ -7,7 +7,7 @@
         }, 
         {
             "location": "/basics/", 
-            "text": "HTML Coding (HTML / CSS)\n\n\nAt first it's important to know the basic languages of web pages - HTML and CSS. You can complete one of the courses \naround the web on the topics to learn them:\n\n\n\n\nInteractive learning by HTML Academy\n\n\nInteractive course by Codecademy\n\n\n\n\nComponent structure\n\n\nIt's important to understand that web pages are consist of separate elements which interact with each other in \ndifferent contexts. You can get knowledge about components while learning principles of BEM:\n\n\n\n\nBEM guide\n\n\nBEM 101 introduction by CSS-TRICKS\n\n\n\n\nCSS processors\n\n\nCSS processors make your work with styles easier with syntax sugar and DRY principle we will take a look at Saas (SCSS syntax).\n\n\nSaas (SCSS)\n\n\nMost popular CSS preprocessor.\n\n\n\n\nSass Basics by Sass creators\n\n\nSass course by Codecademy\n\n\n\n\nTemplates\n\n\nTemplate engines make your work with content and structure of pages easier with syntax sugar and DRY principle. We will take a look at Twig and Markdown.\n\n\nTwig\n\n\nTemplate engine that is used in PHP community (Symfony, Drupal 8).\n\n\n\n\nTwig documentation with explanations and examples\n\n\n\n\nMarkdown\n\n\nMarkup language that is used to simplify work with the content, especially it is used for documentation (GitHub).\n\n\n\n\nGuide\n\n\n\n\nJavaScript\n\n\nThe main programming language for client-side, but also can be used for backend development (NodeJS).\n\n\n\n\nInteractive course by Codecademy\n\n\n\n\nGit\n\n\nInstrument to manage your code.\n\n\n\n\nBasic Guide\n\n\n(Advanced) Pro Git\n\n\n\n\nMain resources\n\n\n\n\nMDN Web Docs by Mozilla\n - the most valuable resource about web development\n\n\nStack Overflow\n - answers for all your questions\n\n\nFeatures support by Can I use\n - enter feature, use if everything is green. Or, for JS \nfeatures, use Babel transpiler and polyfills (\npolifyll.io\n)\n\n\nBrowsers statistic\n - please, support browsers with more than 0.5% market share and \ndon't support IE 10 and below without important reasons (drop support for IE 11 too as it will be possible)", 
+            "text": "HTML Coding (HTML / CSS)\n\n\nAt first it's important to know the basic languages of web pages - HTML and CSS. You can complete one of the courses \naround the web on the topics to learn them:\n\n\n\n\nInteractive learning by HTML Academy\n\n\nInteractive course by Codecademy\n\n\n\n\nComponent structure\n\n\nIt's important to understand that web pages are consist of separate elements which interact with each other in \ndifferent contexts. You can get knowledge about components while learning principles of BEM:\n\n\n\n\nBEM guide\n\n\nBEM 101 introduction by CSS-TRICKS\n\n\n\n\nCSS processors\n\n\nCSS processors make your work with styles easier with syntax sugar and DRY principle we will take a look at Saas (SCSS syntax).\n\n\nSaas (SCSS)\n\n\nMost popular CSS preprocessor.\n\n\n\n\nSass Basics by Sass creators\n\n\nSass course by Codecademy\n\n\n\n\nTemplates\n\n\nTemplate engines make your work with content and structure of pages easier with syntax sugar and DRY principle. We will take a look at Twig and Markdown.\n\n\nTwig\n\n\nTemplate engine that is used in PHP community (Symfony, Drupal 8).\n\n\n\n\nTwig documentation with explanations and examples\n\n\n\n\nMarkdown\n\n\nMarkup language that is used to simplify work with the content, especially it is used for documentation (GitHub).\n\n\n\n\nGuide\n\n\n\n\nJavaScript\n\n\nThe main programming language for client-side, but also can be used for backend development (NodeJS).\n\n\n\n\nInteractive course by Codecademy\n\n\n\n\nBuild\n\n\n\n\nGulp\n\n\nWebpack\n\n\n\n\nGit\n\n\nInstrument to manage your code.\n\n\n\n\nBasic Guide\n\n\nPro Git\n - (first 2-3 chapters for basic understanding)\n\n\n\n\nCommand line\n\n\n\n\nLearn Enough Command Line to Be Dangerous\n\n\n\"Command Line Basics\" by The Odin Project\n\n\n\n\nFonts\n\n\n\n\nGoogle Fonts\n\n\n\n\nVagrant\n\n\n\n\n\"Introduction to Vagrant\" by envatotuts+\n\n\n\n\nEnglish\n\n\nTests:\n\n\n\n\n\"Test your level of English\" by Cambridge\n\n\n\n\nLearning materials:\n\n\n\n\n\"English File\" series by Oxford University\n\n\n\"English in Use\" series by Cambridge University\n\n\n\n\nEstimation\n\n\n\n\n(RU) \u041a\u0430\u043a \u043e\u0446\u0435\u043d\u0438\u0442\u044c \u0447\u0430\u0441\u044b \u043d\u0430 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0443\n\n\n\n\nTime management\n\n\nTools:\n\n\n\n\nToggl\n\n\nRescueTime\n\n\n\n\nIDE, Code editors\n\n\n\n\nVisual Studio Code\n\n\nWebStorm\n, \nPhpStorm\n\n\n\n\nSecurity\n\n\n\n\nHacks Plaining\n\n\nOWASP\n\n\n\n\nMain resources\n\n\n\n\nMDN Web Docs by Mozilla\n - the most valuable resource about web development\n\n\nGoogle\n - just put here all your questions\n\n\nStack Overflow\n - answers for all your questions\n\n\nFeatures support by Can I use\n - enter feature, use if everything is green. Or, for JS \nfeatures, use Babel transpiler and polyfills (\npolifyll.io\n)\n\n\nBrowsers statistic\n - please, support browsers with more than 0.5% market share and \ndon't support IE 10 and below without important reasons (drop support for IE 11 too as it will be possible)", 
             "title": "Basics"
         }, 
         {
@@ -51,18 +51,63 @@
             "title": "JavaScript"
         }, 
         {
+            "location": "/basics/#build", 
+            "text": "Gulp  Webpack", 
+            "title": "Build"
+        }, 
+        {
             "location": "/basics/#git", 
-            "text": "Instrument to manage your code.   Basic Guide  (Advanced) Pro Git", 
+            "text": "Instrument to manage your code.   Basic Guide  Pro Git  - (first 2-3 chapters for basic understanding)", 
             "title": "Git"
         }, 
         {
+            "location": "/basics/#command-line", 
+            "text": "Learn Enough Command Line to Be Dangerous  \"Command Line Basics\" by The Odin Project", 
+            "title": "Command line"
+        }, 
+        {
+            "location": "/basics/#fonts", 
+            "text": "Google Fonts", 
+            "title": "Fonts"
+        }, 
+        {
+            "location": "/basics/#vagrant", 
+            "text": "\"Introduction to Vagrant\" by envatotuts+", 
+            "title": "Vagrant"
+        }, 
+        {
+            "location": "/basics/#english", 
+            "text": "Tests:   \"Test your level of English\" by Cambridge   Learning materials:   \"English File\" series by Oxford University  \"English in Use\" series by Cambridge University", 
+            "title": "English"
+        }, 
+        {
+            "location": "/basics/#estimation", 
+            "text": "(RU) \u041a\u0430\u043a \u043e\u0446\u0435\u043d\u0438\u0442\u044c \u0447\u0430\u0441\u044b \u043d\u0430 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0443", 
+            "title": "Estimation"
+        }, 
+        {
+            "location": "/basics/#time-management", 
+            "text": "Tools:   Toggl  RescueTime", 
+            "title": "Time management"
+        }, 
+        {
+            "location": "/basics/#ide-code-editors", 
+            "text": "Visual Studio Code  WebStorm ,  PhpStorm", 
+            "title": "IDE, Code editors"
+        }, 
+        {
+            "location": "/basics/#security", 
+            "text": "Hacks Plaining  OWASP", 
+            "title": "Security"
+        }, 
+        {
             "location": "/basics/#main-resources", 
-            "text": "MDN Web Docs by Mozilla  - the most valuable resource about web development  Stack Overflow  - answers for all your questions  Features support by Can I use  - enter feature, use if everything is green. Or, for JS \nfeatures, use Babel transpiler and polyfills ( polifyll.io )  Browsers statistic  - please, support browsers with more than 0.5% market share and \ndon't support IE 10 and below without important reasons (drop support for IE 11 too as it will be possible)", 
+            "text": "MDN Web Docs by Mozilla  - the most valuable resource about web development  Google  - just put here all your questions  Stack Overflow  - answers for all your questions  Features support by Can I use  - enter feature, use if everything is green. Or, for JS \nfeatures, use Babel transpiler and polyfills ( polifyll.io )  Browsers statistic  - please, support browsers with more than 0.5% market share and \ndon't support IE 10 and below without important reasons (drop support for IE 11 too as it will be possible)", 
             "title": "Main resources"
         }, 
         {
             "location": "/frontend/", 
-            "text": "Comprehensive knowledge\n\n\n\n\nGuide by TeamDev (RU)\n (HTML coding)\n\n\nInteractive learning by freeCodeCamp\n (Front-end / Full-stack)\n\n\nInteractive learning by The Odin Project\n (Full-stack)\n\n\nFront-end Handbook 2018 by FrontendMasters\n (Front-end / Full-stack)\n\n\n\n\nHTML / CSS\n\n\n\n\nFront-end Handbook 2018 HTML \n CSS learning chapter\n\n\nHTML5 Doctor\n - HTML references\n\n\nHTML Dog\n - HTML guides\n\n\nPug\n - another HTML template engine, popular in NodeJS community\n\n\n\n\nFlexbox:\n\n\n\n\nGuide\n\n\nAnother guide\n\n\n\n\nMethodologies:\n\n\n\n\nSMACSS\n\n\nBEM site\n, \nBEM styleguide\n\n\nOOCSS article on Smashing magazine\n,\n\nGuide\n\n\nITCSS article\n, \n\nITCSS slides\n\n\nAtomic Design article\n\n\n\n\nBooks:\n\n\n\n\n\"CSS: The Definitive Guide\" by Eric Meyer\n\n\n\"CSS3: The Missing Manual\" by David McFarland\n\n\n\"CSS Secrets\" by Lea Verou\n\n\n\n\nJavaScript\n\n\n\n\nFront-end Handbook 2018 JavaScript learning chapter\n\n\n\n\nReact\n\n\n\n\nFront-end Handbook 2018 React learning chapter\n\n\n\n\nVue\n\n\n\n\nawesome-vue repository\n - A curated list of awesome things related to Vue.js\n\n\n\n\nUseful plugins and libraries\n\n\nCommon:\n\n\n\n\nlodash\n - utilities (Vanilla JS)\n\n\n\n\nSliders: \n\n\n\n\nSwiper\n (Vanilla JS / jQuery)\n\n\nSlick\n (jQuery)\n\n\n\n\nLightboxes:\n\n\n\n\nMagnific Popup\n (jQuery)", 
+            "text": "Comprehensive knowledge\n\n\n\n\nGuide by TeamDev (RU)\n (HTML coding)\n\n\nInteractive learning by freeCodeCamp\n (Front-end / Full-stack)\n\n\nInteractive learning by The Odin Project\n (Full-stack)\n\n\nFront-end Handbook 2018 by FrontendMasters\n (Front-end / Full-stack)\n\n\n\n\nHTML / CSS\n\n\n\n\nFront-end Handbook 2018 HTML \n CSS learning chapter\n\n\nHTML5 Doctor\n - HTML references\n\n\nHTML Dog\n - HTML guides\n\n\nPug\n - another HTML template engine, popular in NodeJS community\n\n\n\n\nFlexbox:\n\n\n\n\nGuide by CSS Tricks\n\n\nGuide by Scotch.io\n\n\n\n\nMethodologies:\n\n\n\n\nBEM site\n, \nBEM styleguide\n (essential)\n\n\nSMACSS\n\n\nOOCSS article on Smashing magazine\n,\n\nGuide\n\n\nITCSS article\n, \n\nITCSS slides\n\n\nAtomic Design article\n\n\n\n\nBooks:\n\n\n\n\n\"CSS: The Definitive Guide\" by Eric Meyer\n\n\n\"CSS3: The Missing Manual\" by David McFarland\n\n\n\"CSS Secrets\" by Lea Verou\n\n\n\n\nFrameworks:\n\n\n\n\nBootstrap\n\n\nFoundation\n\n\nTailwind CSS\n\n\n\n\nCSS processors\n\n\nSass\n\n\nArticles:\n\n\n\n\nTheSassWay\n\n\n\n\nCode styleguide:\n\n\n\n\nIdiomatic pre CSS\n\n\n\n\nTutorials, guides:\n\n\n\n\nPostCSS Deep Dive\n\n\n\n\nPostCSS\n\n\n\n\nGitHub repo\n\n\nA searchable catalog of PostCSS plugins\n\n\n\n\nNoticable plugins:\n\n\n\n\nCSSNext\n\n\nAutoprefixer\n\n\n\n\nEmails\n\n\n\n\nFoundation for Emails\n\n\n\n\nJavaScript\n\n\n\n\nFront-end Handbook 2018 JavaScript learning chapter\n\n\n\n\nBooks:\n\n\n\n\nEloquent JavaScript\n\n\n\n\nHow browsers work\n\n\n\n\nOptimising the front end for the browser\n\n(\nRU transalation\n)\n\n\n\n\nLinters\n\n\n\n\nStylelint\n\n\nESLint\n\n\n\n\nReact\n\n\n\n\nFront-end Handbook 2018 React learning chapter\n\n\n\"Start Learning React\" from egghead.io\n\n\n\n\nRedux:\n\n\n\n\n\"Getting Started with Redux\" by Dan Abramov\n\n\n\"Building React Applications with Idiomatic Redux\" by Dan Abramov\n\n\n\n\nVue\n\n\n\n\nawesome-vue repository\n - A curated list of awesome things related to Vue.js\n\n\n\n\nBuild\n\n\n\n\nWebpack guide by SurviveJS\n\n\n\n\nGit\n\n\n\n\nPro Git\n\n\n\"Learn Version Control with Git\" by git-tower\n\n\nGitHowTo\n\n\nGit style guide\n\n\n\n\nFonts\n\n\n\n\nCSS Font Stack\n - default fonts availability on OSs\n\n\nTypekit\n - if you have an account and subscription, you can assemble fonts (event most of the\npaid ones) in kits to connect to your website\n\n\n\n\nDesign\n\n\n\n\nFront-end Handbook 2018 \"Learn User Interface/Interaction Design\" learning chapter\n\n\n\n\nUI/UX\n\n\n\n\nWhat Is User Experience Design? Overview, Tools And Resources\n\n\nUsability Checklist\n\n\n\n\nAccessibility\n\n\n\n\nAccessibility Guidelines\n\n\nWAVE web accessibility evaluation tool\n\n\n\n\nUseful plugins and libraries\n\n\nCommon:\n\n\n\n\nlodash\n - utilities (Vanilla JS)\n\n\n\n\nSliders: \n\n\n\n\nSwiper\n (Vanilla JS / jQuery)\n\n\nSlick\n (jQuery)\n\n\n\n\nLightboxes:\n\n\n\n\nMagnific Popup\n (jQuery)\n\n\n\n\nText trim:\n\n\n\n\nShave\n\n\n\n\nCustom forms:\n\n\n\n\njcf\n\n\n\n\nCustom scrolls:\n\n\n\n\nSimpleBar\n\n\nOverlay Scrollbars\n\n\n\n\nIP information (location, etc):\n\n\n\n\nfreegeoip\n\n\n\n\nSprites:\n\n\n\n\nsvg-sprite\n - svg\n\n\nspritesmith\n - png, jpeg, etc\n\n\n\n\nLazy loading (images):\n\n\n\n\nlozad.js\n\n\n\n\nRegression/visual testing:\n\n\n\n\ngemini\n\n\nBackstopJS\n\n\nGalen\n\n\n\n\nIntersection:\n\n\n\n\nIntersectionObserver API\n - can be used \nwith polyfills (use instead of inview.js and waypoints if possible)\n\n\n\n\nPolyfills:\n\n\n\n\nPolyfill.io\n\n\n\n\nInteresting people\n\n\n\n\n(RU)\"names\" by web standarts", 
             "title": "Frontend"
         }, 
         {
@@ -72,17 +117,47 @@
         }, 
         {
             "location": "/frontend/#html-css", 
-            "text": "Front-end Handbook 2018 HTML   CSS learning chapter  HTML5 Doctor  - HTML references  HTML Dog  - HTML guides  Pug  - another HTML template engine, popular in NodeJS community   Flexbox:   Guide  Another guide   Methodologies:   SMACSS  BEM site ,  BEM styleguide  OOCSS article on Smashing magazine , Guide  ITCSS article ,  ITCSS slides  Atomic Design article   Books:   \"CSS: The Definitive Guide\" by Eric Meyer  \"CSS3: The Missing Manual\" by David McFarland  \"CSS Secrets\" by Lea Verou", 
+            "text": "Front-end Handbook 2018 HTML   CSS learning chapter  HTML5 Doctor  - HTML references  HTML Dog  - HTML guides  Pug  - another HTML template engine, popular in NodeJS community   Flexbox:   Guide by CSS Tricks  Guide by Scotch.io   Methodologies:   BEM site ,  BEM styleguide  (essential)  SMACSS  OOCSS article on Smashing magazine , Guide  ITCSS article ,  ITCSS slides  Atomic Design article   Books:   \"CSS: The Definitive Guide\" by Eric Meyer  \"CSS3: The Missing Manual\" by David McFarland  \"CSS Secrets\" by Lea Verou   Frameworks:   Bootstrap  Foundation  Tailwind CSS", 
             "title": "HTML / CSS"
         }, 
         {
+            "location": "/frontend/#css-processors", 
+            "text": "", 
+            "title": "CSS processors"
+        }, 
+        {
+            "location": "/frontend/#sass", 
+            "text": "Articles:   TheSassWay   Code styleguide:   Idiomatic pre CSS   Tutorials, guides:   PostCSS Deep Dive", 
+            "title": "Sass"
+        }, 
+        {
+            "location": "/frontend/#postcss", 
+            "text": "GitHub repo  A searchable catalog of PostCSS plugins   Noticable plugins:   CSSNext  Autoprefixer", 
+            "title": "PostCSS"
+        }, 
+        {
+            "location": "/frontend/#emails", 
+            "text": "Foundation for Emails", 
+            "title": "Emails"
+        }, 
+        {
             "location": "/frontend/#javascript", 
-            "text": "Front-end Handbook 2018 JavaScript learning chapter", 
+            "text": "Front-end Handbook 2018 JavaScript learning chapter   Books:   Eloquent JavaScript", 
             "title": "JavaScript"
         }, 
         {
+            "location": "/frontend/#how-browsers-work", 
+            "text": "Optimising the front end for the browser \n( RU transalation )", 
+            "title": "How browsers work"
+        }, 
+        {
+            "location": "/frontend/#linters", 
+            "text": "Stylelint  ESLint", 
+            "title": "Linters"
+        }, 
+        {
             "location": "/frontend/#react", 
-            "text": "Front-end Handbook 2018 React learning chapter", 
+            "text": "Front-end Handbook 2018 React learning chapter  \"Start Learning React\" from egghead.io   Redux:   \"Getting Started with Redux\" by Dan Abramov  \"Building React Applications with Idiomatic Redux\" by Dan Abramov", 
             "title": "React"
         }, 
         {
@@ -91,19 +166,84 @@
             "title": "Vue"
         }, 
         {
+            "location": "/frontend/#build", 
+            "text": "Webpack guide by SurviveJS", 
+            "title": "Build"
+        }, 
+        {
+            "location": "/frontend/#git", 
+            "text": "Pro Git  \"Learn Version Control with Git\" by git-tower  GitHowTo  Git style guide", 
+            "title": "Git"
+        }, 
+        {
+            "location": "/frontend/#fonts", 
+            "text": "CSS Font Stack  - default fonts availability on OSs  Typekit  - if you have an account and subscription, you can assemble fonts (event most of the\npaid ones) in kits to connect to your website", 
+            "title": "Fonts"
+        }, 
+        {
+            "location": "/frontend/#design", 
+            "text": "Front-end Handbook 2018 \"Learn User Interface/Interaction Design\" learning chapter", 
+            "title": "Design"
+        }, 
+        {
+            "location": "/frontend/#uiux", 
+            "text": "What Is User Experience Design? Overview, Tools And Resources  Usability Checklist", 
+            "title": "UI/UX"
+        }, 
+        {
+            "location": "/frontend/#accessibility", 
+            "text": "Accessibility Guidelines  WAVE web accessibility evaluation tool", 
+            "title": "Accessibility"
+        }, 
+        {
             "location": "/frontend/#useful-plugins-and-libraries", 
-            "text": "Common:   lodash  - utilities (Vanilla JS)   Sliders:    Swiper  (Vanilla JS / jQuery)  Slick  (jQuery)   Lightboxes:   Magnific Popup  (jQuery)", 
+            "text": "Common:   lodash  - utilities (Vanilla JS)   Sliders:    Swiper  (Vanilla JS / jQuery)  Slick  (jQuery)   Lightboxes:   Magnific Popup  (jQuery)   Text trim:   Shave   Custom forms:   jcf   Custom scrolls:   SimpleBar  Overlay Scrollbars   IP information (location, etc):   freegeoip   Sprites:   svg-sprite  - svg  spritesmith  - png, jpeg, etc   Lazy loading (images):   lozad.js   Regression/visual testing:   gemini  BackstopJS  Galen   Intersection:   IntersectionObserver API  - can be used \nwith polyfills (use instead of inview.js and waypoints if possible)   Polyfills:   Polyfill.io", 
             "title": "Useful plugins and libraries"
         }, 
         {
+            "location": "/frontend/#interesting-people", 
+            "text": "(RU)\"names\" by web standarts", 
+            "title": "Interesting people"
+        }, 
+        {
             "location": "/drupal-frontend/", 
-            "text": "", 
+            "text": "Overview\n\n\n\n\nDrupal 8 docs\n\n\n\n\nTheming\n\n\n\n\nDrupal 8 docs about theming\n\n\nDrupal 8 theming guide\n\n\nDrupal 8 theming Fundamentals\n\n\nDrupal 8 docs about mobile\n\n\n\n\nJavaScript\n\n\n\n\nDrupal 8 JavaScript API docs", 
             "title": "Drupal frontend"
         }, 
         {
+            "location": "/drupal-frontend/#overview", 
+            "text": "Drupal 8 docs", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/drupal-frontend/#theming", 
+            "text": "Drupal 8 docs about theming  Drupal 8 theming guide  Drupal 8 theming Fundamentals  Drupal 8 docs about mobile", 
+            "title": "Theming"
+        }, 
+        {
+            "location": "/drupal-frontend/#javascript", 
+            "text": "Drupal 8 JavaScript API docs", 
+            "title": "JavaScript"
+        }, 
+        {
             "location": "/drupal-backend/", 
-            "text": "", 
+            "text": "Main note\n\n\nWith standard (non-headless/non-decoupled) version of Drupal the structure of the pages is highly dependent on the \nDrupal developer so be sure to learn the frontend basics thoroughly to understand the front-end developer's needs and\ndecrease development costs.\n\n\nTheming\n\n\nThe main work of front-end developer in theme consists of styling, templating and scripting: Drupal's theme hooks is\nmore about work with PHP and what comes from the backend side so please be sure to provide front-end developer with\nvariables for templates and don't ask the frontend developer to work with the hooks if he/she not interested to\nevolve into Drupal developer, at least at the beginning of learning of Drupal.\n\n\nAdditional\n\n\nAlso, be sure to check \nDrupal Good Practices", 
             "title": "Drupal backend"
+        }, 
+        {
+            "location": "/drupal-backend/#main-note", 
+            "text": "With standard (non-headless/non-decoupled) version of Drupal the structure of the pages is highly dependent on the \nDrupal developer so be sure to learn the frontend basics thoroughly to understand the front-end developer's needs and\ndecrease development costs.", 
+            "title": "Main note"
+        }, 
+        {
+            "location": "/drupal-backend/#theming", 
+            "text": "The main work of front-end developer in theme consists of styling, templating and scripting: Drupal's theme hooks is\nmore about work with PHP and what comes from the backend side so please be sure to provide front-end developer with\nvariables for templates and don't ask the frontend developer to work with the hooks if he/she not interested to\nevolve into Drupal developer, at least at the beginning of learning of Drupal.", 
+            "title": "Theming"
+        }, 
+        {
+            "location": "/drupal-backend/#additional", 
+            "text": "Also, be sure to check  Drupal Good Practices", 
+            "title": "Additional"
         }
     ]
 }
